@@ -20506,6 +20506,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\PagesMovies\\Create.cshtml",
+      "TargetPath": "PagesMovies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -20513,6 +20518,21 @@
     {
       "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\PagesMovies\\Index.cshtml",
+      "TargetPath": "PagesMovies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\PagesMovies\\Details.cshtml",
+      "TargetPath": "PagesMovies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\PagesMovies\\Delete.cshtml",
+      "TargetPath": "PagesMovies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20533,6 +20553,11 @@
     {
       "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\CIDM4390\\Tutorials\\RazorPagesMovie\\PagesMovies\\Edit.cshtml",
+      "TargetPath": "PagesMovies\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
